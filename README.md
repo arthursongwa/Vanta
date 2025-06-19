@@ -51,7 +51,7 @@ L’objectif : gagner du temps sur les tâches répétitives, tester des interfa
 
 | Écran principal         | Ajout d'action             | Exécution en cours              |
 | ----------------------- | -------------------------- | ------------------------------- |
-| ![images/home.png](images/home.png)    | ![](images/add.png)        | ![](images/progress.png)        |
+| ![images/Home.PNG](images/Home.PNG)    | ![](images/add.PNG)        | ![images/progress.PNG](images/progress.PNG)        |
 
 ---
 
