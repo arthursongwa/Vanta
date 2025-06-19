@@ -58,7 +58,7 @@ L’objectif : gagner du temps sur les tâches répétitives, tester des interfa
 ## 🧩 Structure du projet
 ```
 📦 Vanta/
- ┣ 📁 draft_code/          # Contient des ebauches, test et plusieurs version rate de l'app (Pas pertinent)
+ ┣ 📁 draft_code/          # Contient des ébauches, test et plusieurs versions ratées de l'app (Pas pertinent)
  ┣ 📁 icons/               # Icônes de l’interface (click.svg, write.svg, etc.)
  ┣ 📁 images/              # 
  ┣ 📄 app.py               # Interface principale PyQt5
