@@ -56,19 +56,18 @@ L’objectif : gagner du temps sur les tâches répétitives, tester des interfa
 ---
 
 ## 🧩 Structure du projet
-
 ```
-vanta/
-├── icons/               # Dossier des icônes SVG
-├── images/      
-├── app.py               # Interface PyQt5
-├── automate.py          # Boucle d'exécution des actions
-├── capture.py           # Système de capture de zones
-├── actions.json         # Stockage des actions enregistrées       
-├── requirements.txt
-└── README.md
+📦 Vanta/
+ ┣ 📁 draft_code/          # Contient des ebauches, test et plusieurs version rate de l'app (Pas pertinent)
+ ┣ 📁 icons/               # Icônes de l’interface (click.svg, write.svg, etc.)
+ ┣ 📁 images/              # 
+ ┣ 📄 app.py               # Interface principale PyQt5
+ ┣ 📄 automate.py          # Contient la boucle d’automatisation
+ ┣ 📄 capture.py           # Outils de capture d’écran pour les cibles/contextes
+ ┣ 📄 actions.json         # Liste des actions sauvegardées
+ ┣ 📄 README.md
+ ┗ 📄 requirements.txt     # Dépendances Python
 ```
-
 ---
 
 ## ⚙️ Installation
