@@ -1,0 +1,12 @@
+PyQt5
+pyautogui
+pillow
+time
+sys
+json
+sympy
+threading
+tkinter
+PIL
+datetime
+os

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Scroll",
+    "texte": "222",
+    "delais": "1",
+    "image_cible": "images\\cible_121709.png",
+    "contexte": "images\\contexte_121713.png"
+  },
+  {
+    "type": "Click",
+    "texte": "",
+    "delais": "0",
+    "image_cible": "images\\cible_132308.png",
+    "contexte": "images\\contexte_132307.png"
+  },
+  {
+    "type": "Saisie",
+    "texte": "dde",
+    "delais": "0",
+    "image_cible": "images\\cible_132308.png",
+    "contexte": "images\\contexte_132307.png"
+  }
+]
