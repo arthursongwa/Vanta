@@ -49,11 +49,9 @@ L’objectif : gagner du temps sur les tâches répétitives, tester des interfa
 
 ## 🖥️ Aperçu visuel
 
-> ⚠️ Remplace ces liens par tes propres captures d’écran dans le dossier `assets/`
-
 | Écran principal         | Ajout d'action             | Exécution en cours              |
 | ----------------------- | -------------------------- | ------------------------------- |
-| ![](images/home.png)    | ![](images/add.png)        | ![](images/progress.png)        |
+| ![images/home.png](images/home.png)    | ![](images/add.png)        | ![](images/progress.png)        |
 
 ---
 
@@ -78,7 +76,7 @@ vanta/
 1. Clone le repo :
 
 ```bash
-git clone https://github.com/ton_user/vanta.git
+git clone https://github.com/arthursongwa/vanta.git
 cd vanta
 ```
 
